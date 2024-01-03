@@ -38,33 +38,3 @@ nodemon .\Server\server.js
 
 ```
 
-
-
-## Frontend
-
-The frontend of this application is designed to provide an interactive user interface. Tailwind CSS has been utilized for responsive and clean UI design. Additionally, React-Toastify is integrated for enhanced user notifications and feedback.
-
-Feel free to explore the Frontend directory for the frontend code.
-
-## Installation
-
-After cloning the repository, navigate to the project root directory and run:
-
-```bash
-
-# To Install node_modules folder and install dependencies
-
-npm install
-
-```
-
-
-
-```bash
-
-# This will launch the application locally.:
-
-node start
-
-```
-
